@@ -1,0 +1,5 @@
+﻿  Admin.cpp
+  User.cpp
+C:\Users\HP\source\repos\Egyptt Timess\Egyptt Timess\Egyptt Timess\Egyptt Timess\User.cpp(285,8): warning C4101: 'r': unreferenced local variable
+  Generating Code...
+  Egyptt Timess.vcxproj -> C:\Users\HP\source\repos\Egyptt Timess\Egyptt Timess\Egyptt Timess\x64\Debug\Egyptt Timess.exe
